@@ -1,0 +1,30 @@
+.main-container {
+  display: flex;
+
+}
+
+.container-grey {
+  background-color: #E9EEE8;
+
+}
+
+.container-grey-text {
+  background-color: #E9EEE8;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #000000;
+
+}
+
+.container-white {
+  background-color: #FFF8F8;
+
+}
+
+.container-contact {
+  background-color: #FFD6BE;
+
+}
