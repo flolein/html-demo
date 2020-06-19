@@ -1,12 +1,21 @@
 .main-container {
-  display: flex;
+
 
 }
 
 .container-grey {
   background-color: #E9EEE8;
 
+
 }
+
+.container-grey-text-flex {
+ background-color: #E9EEE8;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+
 
 .container-grey-text {
   background-color: #E9EEE8;

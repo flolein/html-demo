@@ -1,5 +1,6 @@
 @import "components/_container.css";
 @import "config/_colors.css";
+@import "components/_avatar.css";
 
 h1 {
 font-family: Source Sans Pro;
@@ -75,5 +76,5 @@ p {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 
-
 }
+
