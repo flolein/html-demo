@@ -9,7 +9,6 @@ font-weight: bold;
 font-size: 72px;
 line-height: 91px;
 color: #000000;
-
 }
 
 h2 {
@@ -78,3 +77,29 @@ p {
 
 }
 
+#logo1 {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 91px;
+  color: #000000;
+  position: relative;
+  top:420px;
+  left:750px;
+
+}
+
+#logo2 {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 45px;
+  color: #000000;
+  position: relative;
+  top:380px;
+  left:750px;
+
+
+}

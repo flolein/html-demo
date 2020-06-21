@@ -1,11 +1,26 @@
 .main-container {
+  background-color: #E9EEE8;
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
 
 
 }
 
 .container-grey {
   background-color: #E9EEE8;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
 
+
+
+}
+
+.container-grey-logo {
+  position:
+  top: 460px;
+  left:750px;
 
 }
 
@@ -26,6 +41,7 @@
   line-height: 18px;
   color: #000000;
 
+
 }
 
 .container-white {
@@ -35,5 +51,11 @@
 
 .container-contact {
   background-color: #FFD6BE;
+
+}
+
+.banner {
+  background-color: #E9EEE8;
+  height: 670px;
 
 }
